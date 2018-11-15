@@ -1,0 +1,7 @@
+java.lang.Exception: No tests found matching Method testTree(katya.collection.BinaryTreeTest) from org.junit.internal.requests.ClassRequest@46daef40 
+
+at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:40) 
+at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:49) 
+at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) 
+at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) 
+at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
